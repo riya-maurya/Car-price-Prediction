@@ -20,7 +20,7 @@ This project aims to predict the price of a car based on various features using 
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/your-repo.git
+   git clone https://github.com/riya-maurya/your-repo.git
    ```
 2. Navigate to the project directory:
    ```sh
